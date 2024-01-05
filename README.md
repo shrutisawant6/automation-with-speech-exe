@@ -3,4 +3,4 @@ Execute the AutomationWithSpeech.exe file and see how the application(s) open au
 
 Alter the appsettings.json file according to your needs.
 
-Refer to the code here: https://github.com/shrutisawant6/automation-with-speech-code
+Reference to the code: https://github.com/shrutisawant6/automation-with-speech-code
