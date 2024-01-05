@@ -5,5 +5,5 @@ Alter the appsettings.json file according to your needs.
 
 Reference to the code: https://github.com/shrutisawant6/automation-with-speech-code
 
-Compatible on windows
+Compatible on Windows
 
